@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Federicorapi
-- 👀 I’m interested in Quantum optics, Matlab, Python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: federico.rapisarda@phys.ens.fr
 
